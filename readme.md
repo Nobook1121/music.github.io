@@ -1,8 +1,8 @@
 # 嘉一实验点歌台
 
-**欢迎使用嘉一实验点歌台！这是本程序的README.MD哦！**
+欢迎使用嘉一实验点歌台！这是本程序的README.MD哦！
 
-**本程序为unknown-o开发的表白墙，此程序使用GNU General Public License (GPL) V2许可证开源
+本程序为unknown-o开发的表白墙，此程序使用GNU General Public License (GPL) V2许可证开源
 
 ## 专为嘉一14班开办的点歌台
 
